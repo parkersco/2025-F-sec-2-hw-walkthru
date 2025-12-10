@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(0, 174, 255);
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    font-size: 48px;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+h2 {
+    color: rgb(4, 0, 128);
+    text-decoration: underline;
+    font-style: normal;
+    text-align: center;
+}
+h3 {
+    color: rgb(132, 90, 0);
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+}
+#pinkparagraph {
+    color: rgb(255, 20, 147);
+}
